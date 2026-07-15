@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=1500&pause=500&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+there,+Ritika+here..!;Welcome+to+my+GitHub!;Let's+Build+Something+Amazing!"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+Ritika+here..!;Welcome+to+my+GitHub!;Let's+Build+Something+Amazing!"/>
 </p>
 <!--
 **RitikaC07/RitikaC07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
